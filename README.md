@@ -57,6 +57,7 @@
 ### Git
 - [How to write good commit messages](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things.
+- [Rebase in depth](https://git-rebase.io/)
 
 ## Front End Development
 ## Back End Development
