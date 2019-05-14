@@ -38,6 +38,7 @@
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Go 101](https://go101.org/article/101.html): Go 101 is a book focusing on Go syntax/semantics and all kinds of details.
 
 ### JavaScript
 
@@ -57,6 +58,8 @@
 ### Git
 - [How to write good commit messages](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things.
+- [First Aid Git](http://firstaidgit.io): A searcheable collection of most frequently asked Git questions.
+- [Git power tools for daily use](https://nvie.com/posts/git-power-tools/) A collection of tools to make git daily use easier
 - [Rebase in depth](https://git-rebase.io/)
 
 ## Front End Development
@@ -88,6 +91,7 @@
 ### PostgreSQL
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 - [PostgreSQL Exercises](https://pgexercises.com/)
+- [Don't do this](https://wiki.postgresql.org/wiki/Don't_Do_This) A collection of MUST NOTs for PostgresSQL development
 
 ## Other
 
